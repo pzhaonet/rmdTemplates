@@ -1,1 +1,4 @@
 name: ms_review
+description: >
+  Manuscript template for Revista Ecosistemas
+create_dir: true

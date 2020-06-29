@@ -1,1 +1,5 @@
 name: Embed_data_rmd_within_HTML
+description: >
+  Beamer slides (PDF) with metropolis theme
+create_dir: true
+
